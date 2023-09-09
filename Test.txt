@@ -1,1 +1,2 @@
-This is the line before the change and i am gonna change tihs wrong word.
+This is the line before the change and i am gonna change this wrong word.
+And now also added this new line.
