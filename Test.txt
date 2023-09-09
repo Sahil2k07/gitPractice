@@ -1,2 +1,4 @@
 This is the line before the change and i am gonna change this wrong word.
 And now also added this new line.
+
+This is the new feature to be added in the branch b2.
