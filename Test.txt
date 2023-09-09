@@ -2,3 +2,5 @@ This is the line before the change and i am gonna change this wrong word.
 And now also added this new line.
 
 New feature to be added for the git branch b1.
+
+This is the new feature to be added in the branch b2.
