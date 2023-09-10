@@ -4,3 +4,5 @@ And now also added this new line.
 New feature to be added for the git branch b1.
 
 This is the new feature to be added in the branch b2.
+
+Feature to be reverted.
